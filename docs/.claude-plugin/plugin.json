@@ -1,0 +1,8 @@
+{
+  "name": "docs",
+  "description": "Gera e atualiza documentação a partir do código real: README, JSDoc/docstrings e endpoints.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Gustavo Luiz"
+  }
+}

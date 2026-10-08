@@ -1,0 +1,8 @@
+{
+  "name": "debug",
+  "description": "Debug metódico: reproduz, levanta hipóteses, acha a causa raiz e corrige.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Gustavo Luiz"
+  }
+}

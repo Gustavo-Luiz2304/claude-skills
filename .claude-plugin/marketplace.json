@@ -8,6 +8,16 @@
       "name": "refactor-senior",
       "source": "./refactor-senior",
       "description": "Refatoração de código nível sênior: mapeia, diagnostica e refatora sem mudar o comportamento."
+    },
+    {
+      "name": "debug",
+      "source": "./debug",
+      "description": "Debug metódico: reproduz, levanta hipóteses, acha a causa raiz e corrige."
+    },
+    {
+      "name": "docs",
+      "source": "./docs",
+      "description": "Gera e atualiza documentação a partir do código real: README, JSDoc/docstrings e endpoints."
     }
   ]
 }
