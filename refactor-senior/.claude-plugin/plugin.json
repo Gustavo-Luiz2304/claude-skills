@@ -1,0 +1,8 @@
+{
+  "name": "refactor-senior",
+  "description": "Refatoração de código nível sênior: mapeia, diagnostica e refatora sem mudar o comportamento.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Gustavo Luiz"
+  }
+}

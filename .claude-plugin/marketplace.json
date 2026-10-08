@@ -1,0 +1,13 @@
+{
+  "name": "gl-skills",
+  "owner": {
+    "name": "Gustavo Luiz"
+  },
+  "plugins": [
+    {
+      "name": "refactor-senior",
+      "source": "./refactor-senior",
+      "description": "Refatoração de código nível sênior: mapeia, diagnostica e refatora sem mudar o comportamento."
+    }
+  ]
+}
